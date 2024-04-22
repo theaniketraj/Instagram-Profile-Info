@@ -11,3 +11,4 @@ python InstgramProfile.py <username>
 ```
 
 ### Sample run 
+<img> <img src="https://github.com/theaniketraj/Instagram-Profile-Info/blob/main/output.png">
