@@ -6,7 +6,7 @@ A simple Python script that allows users to input an Instagram username and retr
 ```
 pip install -r requirements.txt
 ```
-<br>
+
 ### STEP 2
 ### Execute Program
 ```
