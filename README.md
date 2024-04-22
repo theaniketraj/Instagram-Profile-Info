@@ -1,10 +1,13 @@
 # Instagram-Profile-Info
 A simple Python script that allows users to input an Instagram username and retrieve essential details about the user’s profile. 📸
+<br>
+### STEP 1
 ### install packages 
 ```
 pip install -r requirements.txt
 ```
-
+<br>
+### STEP 2
 ### Execute Program
 ```
 python InstgramProfile.py <username>
